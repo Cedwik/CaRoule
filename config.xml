@@ -6,14 +6,14 @@
         id = "com.phonegap.hello-world"
         version = "1.0.0">
 
-    <name>Test Geo 1</name>
+    <name>Ca Roule</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Application pour Intelligence Power
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://cguimet.fr">
+        Cédric Guimet 
     </author>
 
     <!--
@@ -21,9 +21,9 @@ If you do not want any permissions to be added to your app, add the
 following tag to your config.xml; you will still have the INTERNET
 permission on your app, which PhoneGap requires.
 
--->
-<preference name="permissions"                value="none"/>
 
+<preference name="permissions"                value="none"/>
+-->
     <!-- Customize your app and platform with the preference element. -->
     <preference name="phonegap-version" value="3.0.0" /> <!-- all: current version of PhoneGap -->
 
